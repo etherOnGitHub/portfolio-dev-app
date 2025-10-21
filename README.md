@@ -2,4 +2,4 @@
 
 This site will contain portfolios and possiby be able to create serveral in one. Cool!
 
-more to come
+[Deploy Steps](docs/setup.md)
