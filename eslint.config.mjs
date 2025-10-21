@@ -18,6 +18,12 @@ const eslintConfig = [
       "out/**",
       "build/**",
       "next-env.d.ts",
+      "src/generated/**",
+      "prisma/generated/**",
+      "prisma/dev.db",
+      "*.tsbuildinfo",
+      "tailwind.extension.json",
+      ".vercel/**",
     ],
   },
 ];
