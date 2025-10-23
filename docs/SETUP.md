@@ -1,6 +1,6 @@
 # 🧩 Project Setup Guide (Next.js + Tailwind + Prisma)
 
-This guide walks through setting up the project locally, installing dependencies, and configuring VS Code for a smooth workflow.
+This guide walks through setting up the project locally, installing dependencies, and configuring VS Code for a smooth workflow. <br>
 This project presumes you have [Node.js](https://nodejs.org/en) installed.
 
 ---
